@@ -25,7 +25,7 @@ SECRET_KEY = 'kcm=kl7-91$b9n()e!7u)oc9vociwkhhx1%hok5(58(1gm#^ja'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<LIFEPLUSLIZ>.PYTHONANYWHERE.COM']
+ALLOWED_HOSTS = ['127.0.0.1', 'lifeplusliz.pythonanywhere.com']
 
 
 # Application definition
